@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FFA65564-2BFC-4E18-AD20-D21EED5783A4"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D2CA2D73-FAB5-4778-AAF3-C03AD3A99018"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SQLiteSampleSDK/Sources/SQLiteSampleSDK/DataStore/DataBase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "insert(_:binds:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "25312E17-6104-456A-92F3-94E42BCCFCD1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SQLiteSampleSDK/Sources/SQLiteSampleSDK/DataStore/DataBase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "select(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "74BFC1E7-2F1A-41DF-B8D8-97C8C5F2A3AF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleSQLiteAppProject/SampleSQLiteAppProject/SampleSQLiteAppProjectApp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "application(_:didFinishLaunchingWithOptions:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "74BFC1E7-2F1A-41DF-B8D8-97C8C5F2A3AF - bc4907be6dddb576"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in SampleSQLiteAppProject.AppDelegate.application(_: __C.UIApplication, didFinishLaunchingWithOptions: Swift.Optional&lt;Swift.Dictionary&lt;__C.UIApplicationLaunchOptionsKey, Any&gt;&gt;) -&gt; Swift.Bool"
+                  moduleName = "SampleSQLiteAppProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/satoutaichi/work/swiftui/SQLiteSample/SampleSQLiteAppProject/SampleSQLiteAppProject/SampleSQLiteAppProjectApp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23">
+               </Location>
+               <Location
+                  uuid = "74BFC1E7-2F1A-41DF-B8D8-97C8C5F2A3AF - d66a7c7466565775"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) suspend resume partial function for closure #1 @Sendable () async -&gt; () in SampleSQLiteAppProject.AppDelegate.application(_: __C.UIApplication, didFinishLaunchingWithOptions: Swift.Optional&lt;Swift.Dictionary&lt;__C.UIApplicationLaunchOptionsKey, Any&gt;&gt;) -&gt; Swift.Bool"
+                  moduleName = "SampleSQLiteAppProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/satoutaichi/work/swiftui/SQLiteSample/SampleSQLiteAppProject/SampleSQLiteAppProject/SampleSQLiteAppProjectApp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23">
+               </Location>
+               <Location
+                  uuid = "74BFC1E7-2F1A-41DF-B8D8-97C8C5F2A3AF - 708eb14a6322f174"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in SampleSQLiteAppProject.AppDelegate.application(_: __C.UIApplication, didFinishLaunchingWithOptions: Swift.Optional&lt;Swift.Dictionary&lt;__C.UIApplicationLaunchOptionsKey, Any&gt;&gt;) -&gt; Swift.Bool"
+                  moduleName = "SampleSQLiteAppProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/satoutaichi/work/swiftui/SQLiteSample/SampleSQLiteAppProject/SampleSQLiteAppProject/SampleSQLiteAppProjectApp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23">
+               </Location>
+               <Location
+                  uuid = "74BFC1E7-2F1A-41DF-B8D8-97C8C5F2A3AF - 7ed96f9c5084af71"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(6) suspend resume partial function for closure #1 @Sendable () async -&gt; () in SampleSQLiteAppProject.AppDelegate.application(_: __C.UIApplication, didFinishLaunchingWithOptions: Swift.Optional&lt;Swift.Dictionary&lt;__C.UIApplicationLaunchOptionsKey, Any&gt;&gt;) -&gt; Swift.Bool"
+                  moduleName = "SampleSQLiteAppProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/satoutaichi/work/swiftui/SQLiteSample/SampleSQLiteAppProject/SampleSQLiteAppProject/SampleSQLiteAppProjectApp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "32B8F063-6CC7-4D86-A4C4-D889699F308E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleSQLiteAppProject/SampleSQLiteAppProject/SampleSQLiteAppProjectApp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "application(_:didFinishLaunchingWithOptions:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "32B8F063-6CC7-4D86-A4C4-D889699F308E - 708eb14a6322f136"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in SampleSQLiteAppProject.AppDelegate.application(_: __C.UIApplication, didFinishLaunchingWithOptions: Swift.Optional&lt;Swift.Dictionary&lt;__C.UIApplicationLaunchOptionsKey, Any&gt;&gt;) -&gt; Swift.Bool"
+                  moduleName = "SampleSQLiteAppProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/satoutaichi/work/swiftui/SQLiteSample/SampleSQLiteAppProject/SampleSQLiteAppProject/SampleSQLiteAppProjectApp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25">
+               </Location>
+               <Location
+                  uuid = "32B8F063-6CC7-4D86-A4C4-D889699F308E - 8a93f6005dbf9331"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; () in SampleSQLiteAppProject.AppDelegate.application(_: __C.UIApplication, didFinishLaunchingWithOptions: Swift.Optional&lt;Swift.Dictionary&lt;__C.UIApplicationLaunchOptionsKey, Any&gt;&gt;) -&gt; Swift.Bool"
+                  moduleName = "SampleSQLiteAppProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/satoutaichi/work/swiftui/SQLiteSample/SampleSQLiteAppProject/SampleSQLiteAppProject/SampleSQLiteAppProjectApp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25">
+               </Location>
+               <Location
+                  uuid = "32B8F063-6CC7-4D86-A4C4-D889699F308E - 24b42ac656080d30"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for closure #1 @Sendable () async -&gt; () in SampleSQLiteAppProject.AppDelegate.application(_: __C.UIApplication, didFinishLaunchingWithOptions: Swift.Optional&lt;Swift.Dictionary&lt;__C.UIApplicationLaunchOptionsKey, Any&gt;&gt;) -&gt; Swift.Bool"
+                  moduleName = "SampleSQLiteAppProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/satoutaichi/work/swiftui/SQLiteSample/SampleSQLiteAppProject/SampleSQLiteAppProject/SampleSQLiteAppProjectApp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25">
+               </Location>
+               <Location
+                  uuid = "32B8F063-6CC7-4D86-A4C4-D889699F308E - 98fda4524d114932"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(7) suspend resume partial function for closure #1 @Sendable () async -&gt; () in SampleSQLiteAppProject.AppDelegate.application(_: __C.UIApplication, didFinishLaunchingWithOptions: Swift.Optional&lt;Swift.Dictionary&lt;__C.UIApplicationLaunchOptionsKey, Any&gt;&gt;) -&gt; Swift.Bool"
+                  moduleName = "SampleSQLiteAppProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/satoutaichi/work/swiftui/SQLiteSample/SampleSQLiteAppProject/SampleSQLiteAppProject/SampleSQLiteAppProjectApp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7A031F41-D23B-444C-97C7-EC299FA91BFC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SQLiteSampleSDK/Sources/SQLiteSampleSDK/DataStore/DataBase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "openDb()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9F4B9093-F8BA-4D22-90BE-84C0221EDD87"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SQLiteSampleSDK/Sources/SQLiteSampleSDK/DataStore/DataBase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "createDb(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "11960B88-B65C-4756-B61E-D7651186E4F2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleSQLiteAppProject/SampleSQLiteAppProject/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "197"
+            endingLineNumber = "197"
+            landmarkName = "fetchCurrentList()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "11960B88-B65C-4756-B61E-D7651186E4F2 - d067f35a9548b198"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for SampleSQLiteAppProject.ContentView.fetchCurrentList() async -&gt; Swift.Array&lt;SampleSQLiteAppProject.Memo&gt;"
+                  moduleName = "SampleSQLiteAppProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/satoutaichi/work/swiftui/SQLiteSample/SampleSQLiteAppProject/SampleSQLiteAppProject/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "197"
+                  endingLineNumber = "197">
+               </Location>
+               <Location
+                  uuid = "11960B88-B65C-4756-B61E-D7651186E4F2 - 84b85ff7faa4979b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) suspend resume partial function for SampleSQLiteAppProject.ContentView.fetchCurrentList() async -&gt; Swift.Array&lt;SampleSQLiteAppProject.Memo&gt;"
+                  moduleName = "SampleSQLiteAppProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/satoutaichi/work/swiftui/SQLiteSample/SampleSQLiteAppProject/SampleSQLiteAppProject/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "197"
+                  endingLineNumber = "197">
+               </Location>
+               <Location
+                  uuid = "11960B88-B65C-4756-B61E-D7651186E4F2 - 79cd286c5eb0759a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for SampleSQLiteAppProject.ContentView.fetchCurrentList() async -&gt; Swift.Array&lt;SampleSQLiteAppProject.Memo&gt;"
+                  moduleName = "SampleSQLiteAppProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/satoutaichi/work/swiftui/SQLiteSample/SampleSQLiteAppProject/SampleSQLiteAppProject/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "197"
+                  endingLineNumber = "197">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9E5FF63F-3725-4910-BB32-95BA0D21AF77"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SQLiteSampleSDK/Sources/SQLiteSampleSDK/DataStore/DataBase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "106"
+            endingLineNumber = "106"
+            landmarkName = "select(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "175E42B1-C787-4DCC-9110-E8D04C9CA840"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleSQLiteAppProject/SampleSQLiteAppProject/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "175E42B1-C787-4DCC-9110-E8D04C9CA840 - cabda1fbb7850d0b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Sendable () async -&gt; () in SampleSQLiteAppProject.ContentView.body.getter : some"
+                  moduleName = "SampleSQLiteAppProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/satoutaichi/work/swiftui/SQLiteSample/SampleSQLiteAppProject/SampleSQLiteAppProject/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94">
+               </Location>
+               <Location
+                  uuid = "175E42B1-C787-4DCC-9110-E8D04C9CA840 - ab448da581656106"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for closure #2 @Sendable () async -&gt; () in SampleSQLiteAppProject.ContentView.body.getter : some"
+                  moduleName = "SampleSQLiteAppProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/satoutaichi/work/swiftui/SQLiteSample/SampleSQLiteAppProject/SampleSQLiteAppProject/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94">
+               </Location>
+               <Location
+                  uuid = "175E42B1-C787-4DCC-9110-E8D04C9CA840 - 4091093ef60e6399"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) suspend resume partial function for closure #2 @Sendable () async -&gt; () in SampleSQLiteAppProject.ContentView.body.getter : some"
+                  moduleName = "SampleSQLiteAppProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/satoutaichi/work/swiftui/SQLiteSample/SampleSQLiteAppProject/SampleSQLiteAppProject/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
